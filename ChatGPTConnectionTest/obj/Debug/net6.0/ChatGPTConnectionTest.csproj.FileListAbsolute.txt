@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\bin\Debug\net6.0\ChatGPTConnectionTest.exe
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\bin\Debug\net6.0\ChatGPTConnectionTest.deps.json
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\bin\Debug\net6.0\ChatGPTConnectionTest.runtimeconfig.json
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\bin\Debug\net6.0\ChatGPTConnectionTest.dll
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\bin\Debug\net6.0\ChatGPTConnectionTest.pdb
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\obj\Debug\net6.0\ChatGPTConnectionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\obj\Debug\net6.0\ChatGPTConnectionTest.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\obj\Debug\net6.0\ChatGPTConnectionTest.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\obj\Debug\net6.0\ChatGPTConnectionTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\obj\Debug\net6.0\ChatGPTConnectionTest.dll
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\obj\Debug\net6.0\refint\ChatGPTConnectionTest.dll
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\obj\Debug\net6.0\ChatGPTConnectionTest.pdb
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\obj\Debug\net6.0\ChatGPTConnectionTest.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\obj\Debug\net6.0\ref\ChatGPTConnectionTest.dll
+C:\Users\Admin\source\repos\ChatGPTConnectionTest\ChatGPTConnectionTest\obj\Debug\net6.0\ChatGPTConnectionTest.sourcelink.json
